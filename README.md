@@ -25,8 +25,8 @@
 
 | 분야 | 사용 기술 |
 | --- | --- |
-| **Game** | Unreal Engine 5 · C++ · GAS · Chaos Physics · CommonUI · Enhanced Input · Niagara |
-| **Network** | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby |
+| **주력** | Unreal Engine 5 · C++ |
+| **관련 기술** | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby<br/>GAS · Chaos Physics · CommonUI · Enhanced Input · Niagara |
 | **Engine · Tool (보조)** | Unity · C# · Godot · Blender |
 
 <sub>🔧 그 밖의 경험 — Spring · Java · AWS · MySQL (웹 백엔드 프로젝트)</sub>
