@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://cha-nu.github.io/"><img src="https://img.shields.io/badge/Portfolio-cha--nu.github.io-003f60?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://cha-nu.github.io/blog/"><img src="https://img.shields.io/badge/Tech%20Blog-%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C%20%EB%85%B8%ED%8A%B8-006aa0?style=for-the-badge&logo=astro&logoColor=white" alt="Tech Blog" /></a>
-  <a href="https://cha-nu.github.io/blog/rss.xml"><img src="https://img.shields.io/badge/RSS-subscribe-37a8ec?style=for-the-badge&logo=rss&logoColor=white" alt="RSS" /></a>
+  <a href="https://cha-nu.github.io/projects/"><img src="https://img.shields.io/badge/Portfolio-Projects-37a8ec?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=003f60" alt="Portfolio" /></a>
+  <a href="https://cha-nu.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-Chanus-37a8ec?style=for-the-badge&logo=astro&logoColor=white&labelColor=003f60" alt="Tech Blog" /></a>
 </p>
 
 ---
