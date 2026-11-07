@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">LCW의 GitHub 통계, Rank: B-</title>
-        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1102, PR 횟수: 103, 이슈 개수: 3, (작년) 기여: 1</desc>
+        <title id="titleId">Cha-nu GitHub Stats, Rank: B-</title>
+        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1103, PR 횟수: 103, 이슈 개수: 3, (작년) 기여: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 158.78684227153653;
+        stroke-dashoffset: 158.77332065832107;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >LCW의 GitHub 통계</text>
+      >Cha-nu GitHub Stats</text>
     </g>
       </g>
     
