@@ -23,11 +23,13 @@
   <img src="https://skillicons.dev/icons?i=unreal,cpp,unity,cs,godot,blender,git,github&perline=8" alt="Game & Tools" />
 </p>
 
-| 분야 | 사용 기술 |
+| 분야 | 기술 |
 | --- | --- |
-| **주력** | Unreal Engine 5 · C++ |
-| **관련 기술** | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby<br/>GAS · Chaos Physics · CommonUI · Enhanced Input · Niagara |
-| **Engine · Tool (보조)** | Unity · C# · Godot · Blender |
+| **주력** | **Unreal Engine 5 · C++** |
+| 게임플레이 | GAS · Enhanced Input · Chaos Physics |
+| UI · 연출 | CommonUI · Niagara |
+| 멀티플레이 | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby |
+| 그 밖의 엔진 · 툴 | Unity · C# · Godot · Blender |
 
 <sub>🔧 그 밖의 경험 — Spring · Java · AWS · MySQL (웹 백엔드 프로젝트)</sub>
 
