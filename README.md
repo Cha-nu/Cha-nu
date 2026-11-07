@@ -20,8 +20,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,cpp,unity,cs,godot,blender&perline=8" alt="Game" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,java,aws,mysql,git,github&perline=8" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=unreal,cpp,unity,cs,godot,blender,git,github&perline=8" alt="Game & Tools" />
 </p>
 
 | 분야 | 사용 기술 |
@@ -29,7 +28,8 @@
 | **Game** | Unreal Engine 5 · C++ · GAS · Chaos Physics · CommonUI · Enhanced Input · Niagara |
 | **Network** | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby |
 | **Engine · Tool (보조)** | Unity · C# · Godot · Blender |
-| **Backend** | Spring · Java · AWS · MySQL |
+
+<sub>🔧 그 밖의 경험 — Spring · Java · AWS · MySQL (웹 백엔드 프로젝트)</sub>
 
 ---
 
