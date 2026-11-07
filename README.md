@@ -1,6 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080e13,55:003f60,100:37a8ec&height=220&section=header&text=Cha-nu&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" alt="Cha-nu" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:080e13,55:003f60,100:37a8ec&height=220&section=header&text=Cha-nu&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f1fc,55:9fd3f5,100:37a8ec&height=220&section=header&text=Cha-nu&fontSize=72&fontColor=0b2a40&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" alt="Cha-nu" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -38,10 +41,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub 스탯 등급" />
-  <img height="170" src="./profile/top-langs.svg" alt="많이 쓴 언어" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img src="./profile/stats-light.svg" height="170" alt="GitHub 스탯 등급" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img src="./profile/top-langs-light.svg" height="170" alt="많이 쓴 언어" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:37a8ec,45:003f60,100:080e13&height=120&section=footer" alt="" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:37a8ec,45:003f60,100:080e13&height=120&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:37a8ec,45:9fd3f5,100:e3f1fc&height=120&section=footer" alt="" width="100%" />
+  </picture>
 </p>

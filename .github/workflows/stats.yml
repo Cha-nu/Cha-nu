@@ -17,20 +17,36 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+      - name: Generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&custom_title=Cha-nu%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&rank_icon=default&title_color=37a8ec&icon_color=37a8ec&text_color=d3e0ea&bg_color=171e23&ring_color=37a8ec&hide_border=true&locale=kr
-          path: profile/stats.svg
+          path: profile/stats-dark.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=37a8ec&icon_color=37a8ec&text_color=d3e0ea&bg_color=171e23&ring_color=37a8ec&hide_border=true&locale=kr
-          path: profile/top-langs.svg
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=Cha-nu%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&rank_icon=default&title_color=006aa0&icon_color=37a8ec&text_color=24292f&bg_color=f6f8fa&ring_color=37a8ec&hide_border=true&locale=kr
+          path: profile/stats-light.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=006aa0&icon_color=37a8ec&text_color=24292f&bg_color=f6f8fa&ring_color=37a8ec&hide_border=true&locale=kr
+          path: profile/top-langs-light.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
