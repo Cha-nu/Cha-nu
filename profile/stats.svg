@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cha-nu GitHub Stats, Rank: B-</title>
-        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1106, PR 횟수: 103, 이슈 개수: 3, (작년) 기여: 1</desc>
+        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1109, PR 횟수: 103, 이슈 개수: 3, (작년) 기여: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #00b1da;
+            fill: #37a8ec;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d0e1e7;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d3e0ea;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d0e1e7;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d3e0ea;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #00b1da;
+      fill: #37a8ec;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #00b1da;
+      stroke: #37a8ec;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #00b1da;
+      stroke: #37a8ec;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 158.73281200803473;
+        stroke-dashoffset: 158.69238750559805;
       }
     }
   
@@ -118,7 +118,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="466"
-          fill="#151f22"
+          fill="#171e23"
           stroke-opacity="0"
         />
 
