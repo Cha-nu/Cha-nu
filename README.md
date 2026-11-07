@@ -31,7 +31,7 @@
 | **주력** | **Unreal Engine 5 · C++** |
 | 게임플레이 | GAS · Enhanced Input · Chaos Physics |
 | UI · 연출 | CommonUI · Niagara |
-| 멀티플레이 | Online Subsystem Steam · Seamless Travel · Unity Netcode for GameObjects · Relay / Lobby |
+| 멀티플레이 | Online Subsystem · Seamless Travel · Host Migration |
 | 그 밖의 엔진 · 툴 | Unity · C# · Godot · Blender |
 
 <sub>🔧 그 밖의 경험 — Spring · Java · AWS · MySQL (웹 백엔드 프로젝트)</sub>
