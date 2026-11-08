@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,cpp,unity,cs,godot,blender,git,github&perline=8" alt="Game & Tools" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 깃허브 요약
 
 <p align="center">
   <picture>
