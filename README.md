@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:080e13,55:003f60,100:37a8ec&height=220&section=header&text=Cha-nu&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f1fc,55:9fd3f5,100:37a8ec&height=220&section=header&text=Cha-nu&fontSize=72&fontColor=0b2a40&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" alt="Cha-nu" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f1fc,55:9fd3f5,100:37a8ec&height=220&section=header&text=Chanus&fontSize=72&fontColor=0b2a40&fontAlignY=38&desc=Game%20Client%20Programmer&descAlignY=60&descSize=20&animation=fadeIn" alt="Cha-nu" width="100%" />
   </picture>
 </p>
 
