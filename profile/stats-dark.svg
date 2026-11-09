@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cha-nu GitHub Stats, Rank: B</title>
-        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1258, PR 횟수: 109, 이슈 개수: 3, (작년) 기여: 1</desc>
+        <desc id="descId">받은 스타 수: 5, 전체 커밋 수  : 1267, PR 횟수: 109, 이슈 개수: 3, (작년) 기여: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 155.584200688519;
+        stroke-dashoffset: 155.47528086863815;
       }
     }
   
